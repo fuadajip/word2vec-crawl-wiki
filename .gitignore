@@ -2,3 +2,4 @@
 */.ipynb_checkpoints/*
 *.model
 idwiki.txt
+idwiki_word2vec_*
